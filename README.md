@@ -43,9 +43,7 @@ Welcome to my corner of the internet! 🏡
 ---
 
 ## 🔗 **Let’s Connect!**  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/binhna/)  
-- **GitHub**: [Your GitHub Profile](https://github.com/binhna)  
-- **Twitter**: [Your Twitter Profile](https://x.com/BinhNguyen96)  
+[LinkedIn](https://www.linkedin.com/in/binhna/)  |  [GitHub](https://github.com/binhna)  |  [Twitter](https://x.com/BinhNguyen96)  
 
 ---
 
