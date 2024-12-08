@@ -1,17 +1,52 @@
-## Hi there 👋
+# 👋 Hi there! I’m **An Binh Nguyen** (but you can call me **Ben**)  
 
-- 🔭 I’m currently tackling various clinical challenges through the power of Machine Learning.
-<!--
-**binhna/binhna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of the internet! 🏡  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on several clinical challenges using Machine Learning
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: Mr
-- ⚡ Fun fact: ...
--->
+## 🧠 **Who Am I?**  
+- For the past **8 years**, I've been on a rollercoaster ride through the world of **AI** and **Machine Learning**. 🎢  
+  - I spent **4 years** at university, but it was during the **last 2 years** that I discovered my love for **Machine Learning**.  
+  - Next **6 years**: Diving headfirst into the industry—where I turned data into decisions and models into reality.  
+- Currently, I'm far from home 🗺️, pursuing a new chapter of my life:  
+  🏥 Tackling **clinical challenges** with Machine Learning.  
+  - Limited datasets? Check. ✅  
+  - An unfamiliar clinical domain? Double check. ✅  
+  - But hey, it’s **fun**, challenging, and slightly *soul-crushing*... I mean, rewarding. 😅  
+  - It’s hard, it’s time-consuming, but I’m **loving every minute** of it.  
+
+---
+
+## 🏃 **What Do I Love?**  
+- **Running** 🏃‍♂️  
+  I try my best to lace up my shoes and **run 30 minutes every day after work**. It’s my therapy, my thinking time, and a little victory to end the day.  
+- **Driving cars on the open road** 🚗  
+  Nothing feels better than hitting the road, enjoying the scenery, and letting my thoughts wander with the hum of the engine.  
+- **Helping people** 🤝  
+  Life hasn’t always been a walk in the park for me (more like a steep hill 🏞️), but helping others brings me genuine happiness.  
+  I believe:  
+  > *“If you spread kindness and love, it will come back to you in ways you never expect.”* 🌟  
+
+---
+
+## 🌱 **Fun Facts About Me**  
+- I'm an **AI enthusiast** who sometimes fights with datasets and begs them to behave. 🤖  
+- My motto is: **Work hard, run hard, drive far, help harder.**  
+- Favorite time of the day: Crossing off tasks ✅ and chilling with good thoughts.  
+
+---
+
+## 🎯 **What’s Next?**  
+- Learning, growing, and tackling more **clinical puzzles**.  
+- Bringing **positivity**, **AI magic**, and a little bit of Ben-ergy ⚡ to every challenge I face.  
+
+---
+
+## 🔗 **Let’s Connect!**  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/binhna/)  
+- **GitHub**: [Your GitHub Profile](https://github.com/binhna)  
+- **Twitter**: [Your Twitter Profile](https://x.com/BinhNguyen96)  
+
+---
+
+**“AI may predict the future, but kindness builds it.”** 😊  
