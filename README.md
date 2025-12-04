@@ -8,12 +8,7 @@ Welcome to my corner of the internet! 🏡
 - For the past **8 years**, I've been on a rollercoaster ride through the world of **AI** and **Machine Learning**. 🎢  
   - I spent **4 years** at university, but it was during the **last 2 years** that I discovered my love for **Machine Learning**.  
   - Next **6 years**: Diving headfirst into the industry—where I turned data into decisions and models into reality.  
-- Currently, I'm far from home 🗺️, pursuing a new chapter of my life:  
-  🏥 Tackling **clinical challenges** with Machine Learning.  
-  - Limited datasets? Check. ✅  
-  - An unfamiliar clinical domain? Double check. ✅  
-  - But hey, it’s **fun**, challenging, and slightly *soul-crushing*... I mean, rewarding. 😅  
-  - It’s hard, it’s time-consuming, but I’m **loving every minute** of it.  
+- Currently, I'm far from home 🗺️, pursuing a new chapter of my life in Australia.
 
 ---
 
@@ -37,7 +32,7 @@ Welcome to my corner of the internet! 🏡
 ---
 
 ## 🎯 **What’s Next?**  
-- Learning, growing, and tackling more **clinical puzzles**.  
+- Learning, growing, and tackling more **tech puzzles**.  
 - Bringing **positivity**, **AI magic**, and a little bit of Ben-ergy ⚡ to every challenge I face.  
 
 ---
