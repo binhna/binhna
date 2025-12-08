@@ -1,45 +1,23 @@
-# 👋 Hi there! I’m **An Binh Nguyen** (but you can call me **Ben**)  
+# 👋 Hi, I’m An Binh Nguyen (Ben)
 
-Welcome to my corner of the internet! 🏡  
+Welcome! I am an AI Engineer who loves building practical things.
 
----
+### 🧠 **My Journey**
+I have spent the last **8 years** working with AI and Machine Learning.
+* **The Foundation:** My journey started in university, where I spent 2 years falling in love with the logic behind Machine Learning.
+* **The Real World:** I spent the next **6 years in the industry**. I learned that good code is not just about math—it is about turning data into real decisions that help actual users.
+* **The New Chapter:** Currently, I am challenging myself further by pursuing my PhD in Australia.
 
-## 🧠 **Who Am I?**  
-- For the past **8 years**, I've been on a rollercoaster ride through the world of **AI** and **Machine Learning**. 🎢  
-  - I spent **4 years** at university, but it was during the **last 2 years** that I discovered my love for **Machine Learning**.  
-  - Next **6 years**: Diving headfirst into the industry—where I turned data into decisions and models into reality.  
-- Currently, I'm far from home 🗺️, pursuing a new chapter of my life in Australia.
+### 🏃 **Life Outside of Code**
+* **Running:** I run for **30 minutes every day** after work. It is my way of clearing my mind and staying disciplined.
+* **Driving:** I love driving on open roads. It helps me relax and think through problems.
 
----
+### 🤝 **My Philosophy**
+Life has not always been easy for me, so I understand the value of support. I believe that technical skills make you a good engineer, but kindness and collaboration make you a good teammate.
 
-## 🏃 **What Do I Love?**  
-- **Running** 🏃‍♂️  
-  I try my best to lace up my shoes and **run 30 minutes every day after work**. It’s my therapy, my thinking time, and a little victory to end the day.  
-- **Driving cars on the open road** 🚗  
-  Nothing feels better than hitting the road, enjoying the scenery, and letting my thoughts wander with the hum of the engine.  
-- **Helping people** 🤝  
-  Life hasn’t always been a walk in the park for me (more like a steep hill 🏞️), but helping others brings me genuine happiness.  
-  I believe:  
-  > *“If you spread kindness and love, it will come back to you in ways you never expect.”* 🌟  
+> *"Work hard, stay disciplined, and always help the person next to you."*
 
 ---
 
-## 🌱 **Fun Facts About Me**  
-- I'm an **AI enthusiast** who sometimes fights with datasets and begs them to behave. 🤖  
-- My motto is: **Work hard, run hard, drive far, help harder.**  
-- Favorite time of the day: Crossing off tasks ✅ and chilling with good thoughts.  
-
----
-
-## 🎯 **What’s Next?**  
-- Learning, growing, and tackling more **tech puzzles**.  
-- Bringing **positivity**, **AI magic**, and a little bit of Ben-ergy ⚡ to every challenge I face.  
-
----
-
-## 🔗 **Let’s Connect!**  
-[LinkedIn](https://www.linkedin.com/in/binhna/)  |  [GitHub](https://github.com/binhna)  |  [Twitter](https://x.com/BinhNguyen96)  
-
----
-
-**“AI may predict the future, but kindness builds it.”** 😊  
+### 🔗 **Let’s Connect**
+[LinkedIn](https://www.linkedin.com/in/binhna/) | [GitHub](https://github.com/binhna) | [X](https://x.com/BinhNguyen96)
